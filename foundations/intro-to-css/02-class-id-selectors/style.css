@@ -1,0 +1,22 @@
+.odd-numbers {
+  background-color: #ffaf9c;
+  font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-size {
+  font-size: 24px;
+}
+
+#id-one {
+  color: #003cff;
+  font-size: 36px;
+}
+
+/* #cool-class {
+  font-size: 24px;
+} */
+
+#id-two {
+  background-color: #a1f993;
+  font-weight: bold;
+}
